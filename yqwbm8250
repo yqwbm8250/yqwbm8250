@@ -5,7 +5,7 @@ npm-debug.log*
 yarn-debug
 yarn-.log
 lerna-debug.log*
-#  (https://nodejs.org/api/report.html)
+#  (https://nodejs.org/api/.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.
 
 
