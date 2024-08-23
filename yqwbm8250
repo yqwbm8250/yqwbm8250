@@ -50,7 +50,7 @@ jspm_packages/
 typings/
 
 # TypeScript cache
-*.tsbuildinfo
+*.tsbuildinf
 
 # Optional npm cache directory
 .np
