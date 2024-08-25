@@ -2,7 +2,7 @@
 
 log
 *.lo
-npm-debug.log*
+npm-.log*
 yarn-debug
 yarn-.
 lerna-debug.log*
