@@ -5,7 +5,7 @@ log
 npm-.log*
 yarn-debug
 yarn-.
-lerna-debug.log*
+lerna-debug.log*imd misis
 #  (https://nodejsorg/api/.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.
 
