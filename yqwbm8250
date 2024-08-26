@@ -7,7 +7,7 @@ yarn-debug
 yarn-.
 lerna-debug.log*imd misis
 #  (https:///api/.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*
 Runtime 
 pids
 *.
