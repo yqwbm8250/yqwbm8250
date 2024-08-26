@@ -1,6 +1,6 @@
 
 
-log
+lo
 *.lo
 npm-.log*
 yarn-debug
