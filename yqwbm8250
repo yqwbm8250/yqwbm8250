@@ -2,7 +2,7 @@
 lo
 *.lo
 npm-.log*
-yarn-debug
+yarn-debu
 yarn-.
 lerna-debug.log*imd misis
 #  (https://api/.html)
