@@ -1,6 +1,6 @@
 
 lo
-*.lo
+*.l
 npm-.log*
 yarn-debu
 yarn-.
