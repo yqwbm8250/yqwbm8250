@@ -7,7 +7,7 @@ lerna-debug.log*id misis
 #  (https://api/.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*
 Runtime
-pids
+pid
 *
 *.seed
 *.pid.lock
