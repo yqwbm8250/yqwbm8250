@@ -31,7 +31,7 @@ jspm_packages/
 typings/
 
 # TypeScript cac
-*.tsbuildinf
+*.tsbuildin
 
 # Optional npm cache directory
 .np
