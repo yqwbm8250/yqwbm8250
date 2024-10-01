@@ -10,7 +10,7 @@ Runt
 lib-cov
 # Coverage directory used by tools like istanb
 covera
-*.lcov
+*.lco
 # nyc test coverag
 .nyc_outp
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
