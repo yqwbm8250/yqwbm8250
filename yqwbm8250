@@ -36,7 +36,7 @@ typings/
 # Optional npm cache directory
 .np
 # Optional eslint cach
-.eslintcache
+.eslintcach
 
 # Microbundl cach
 .rpt2_cache
