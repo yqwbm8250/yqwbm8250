@@ -12,7 +12,7 @@ lib-co
 covera
 *.lco
 # nyc test coverag
-.nyc_outp
+.nyc_out
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files
 .grunt
 # Bower dependency directory (https://bower.io/)
